@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Adriano Lima da Silva!
 
 💻 **Contador e Desenvolvedor ** | 📍 **São Paulo, Brasil**  
+
 🚀  Estudante de TI, com foco em desenvolver habilidades para backend, bons conhecimentos em Java e Springboot, familiaridade com tecnologias frontend como AngularJS, React, React-Native e JavaScript. 🚀.
 
 ---
@@ -28,10 +29,9 @@
 
 ## 📊 Estatísticas do GitHub:
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianoLim-a&show_icons=true&theme=transparent)
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianoLim-a&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoLIm-a&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdrianoLim-a&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
 
