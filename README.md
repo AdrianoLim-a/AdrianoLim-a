@@ -7,8 +7,8 @@
 
 ## 🔗 Conecte-se comigo:
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AdrianoLim-a)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriano-lima-da-silva-abbb6511a/)
+- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AdrianoLim-a)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriano-lima-da-silva-abbb6511a/)
 
 ---
 
