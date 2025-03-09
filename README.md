@@ -28,11 +28,10 @@
 
 ## 📊 Estatísticas do GitHub:
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianoLim-a&show_icons=true&theme=dark)
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianoLim-a&show_icons=true&theme=transparent)
 
----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoLIm-a&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoLIm-a&layout=compact&theme=transparent)
 
 ---
 
