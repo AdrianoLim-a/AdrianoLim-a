@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Adriano Lima da Silva!
 
-💻 **Contador e Desenvolvedor** | 📍 **São Paulo, Brasil**  
+💻 **Contador e Desenvolvedor ** | 📍 **São Paulo, Brasil**  
 
 🚀  Estudante de TI, com foco em desenvolver habilidades para backend, bons conhecimentos em Java e Springboot, familiaridade com tecnologias frontend como AngularJS, React, React-Native e JavaScript. 🚀.
 
@@ -8,14 +8,18 @@
 
 ## 🔗 Conecte-se comigo:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AdrianoLim-a)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriano-lima-da-silva-abbb6511a/)
+
+- [![Instagram](https://img.shields.io/badge/Instagram-%23833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asilvany000/)
+
+
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas:
 
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
