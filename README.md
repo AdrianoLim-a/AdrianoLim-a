@@ -10,6 +10,8 @@
 
 ---
 
+[![AdrianoLim-a's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdrianoLim-a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 ## 🔗 Conecte-se comigo:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriano-lima-da-silva-abbb6511a/)
