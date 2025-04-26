@@ -33,21 +33,21 @@
 ### 📱 Aplicativo de Previsão do Tempo
 > **Descrição:** App mobile em React Native que exibe a previsão do tempo em tempo real, consumindo a API OpenWeatherMap.
 
-[![GitHub Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoLim-a/seu-repo-previsao-tempo)
+[![GitHub Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoLim-a/repo_pdmn/tree/main/React-native/app-clima)
 
 ---
 
 ### 🎮 Jogo de Adivinhação
 > **Descrição:** Um divertido jogo de adivinhar números entre 1 e 10, desenvolvido com React Native.
 
-[![GitHub Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoLim-a/seu-repo-jogo-adivinhacao)
+[![GitHub Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoLim-a/repo_pdmn/tree/main/React-native/jogo-adv)
 
 ---
 
-### 📚 Aplicativo de Compartilhamento de Livros
-> **Descrição:** Plataforma Web/Mobile para compartilhar páginas e trechos de livros favoritos, usando React e React Native.
+### 👟 Sneaker Running
+> **Descrição:** Site de e-commerce de tênis de corrida, desenvolvido com Angular no frontend e Spring Boot no backend.
 
-[![GitHub Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoLim-a/seu-repo-compartilhar-livros)
+[![GitHub Repo](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoLim-a/sneakers-running)
 
 ---
 
