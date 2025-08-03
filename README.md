@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Adriano Lima da Silva!
 
-💻 **Contador e Desenvolvedor** | 📍 **São Paulo, Brasil**
+💻 **Desenvolvedor** | 📍 **São Paulo, Brasil**
 
 🚀 Estudante de TI, com foco em desenvolver habilidades para backend, bons conhecimentos em Java e Springboot, familiaridade com tecnologias frontend como AngularJS, React, React-Native e JavaScript. 🚀
 
